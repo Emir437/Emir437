@@ -4,7 +4,7 @@
 - 📫 How to reach me https://www.youtube.com/@emirtalhacatal8506
 - ⚡ Fun fact: I finished demon slayer anime
 - I love math and science.
-- I love demon slayer anime.
+- I love Demon Slayer anime.
 
 <!---
 Emir437/Emir437 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
