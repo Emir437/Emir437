@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Emir437
 - 👀 I’m interested in Japanese
 - 🌱 I’m currently learning Japanese
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.youtube.com/@emirtalhacatal8506
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I finished demon slayer anime
+- I love math and science.
+- I love demon slayer.
 
 <!---
 Emir437/Emir437 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
